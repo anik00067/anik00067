@@ -29,8 +29,6 @@
 
 ---
 
-### 👾 GitHub Contribution Pac-Man
-
 
 ### 👾 GitHub Contribution Pac-Man
 

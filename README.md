@@ -31,17 +31,23 @@
 
 ### 👾 GitHub Contribution Pac-Man
 
+
+### 👾 GitHub Contribution Pac-Man
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?username=YOUR_GITHUB_USERNAME" />
+    srcset="https://raw.githubusercontent.com/anik00067/anik00067/output/pacman-contribution-graph-dark.svg">
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?username=YOUR_GITHUB_USERNAME" />
+    srcset="https://raw.githubusercontent.com/anik00067/anik00067/output/pacman-contribution-graph.svg">
+
   <img
     alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?username=YOUR_GITHUB_USERNAME" />
+    src="https://raw.githubusercontent.com/anik00067/anik00067/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 ---

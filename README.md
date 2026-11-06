@@ -16,24 +16,16 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="middle">
-
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/aniket-das-855191356/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-       width="52"
-       height="40"
-       alt="LinkedIn" />
-</a>
-
-   <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" alt="Animated decoration" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/aniket-das-855191356/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52"
+         height="40"
+         alt="LinkedIn" />
+  </a>
 </p>
-  </tr>
-</table>
 
 ---
 
